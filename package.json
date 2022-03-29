@@ -1,0 +1,22 @@
+{
+  "name": "jeeest1",
+  "version": "1.0.0",
+  "description": "![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joachimnorden/jeeest1.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joachimnorden/jeeest1/issues"
+  },
+  "homepage": "https://github.com/joachimnorden/jeeest1#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
+}
